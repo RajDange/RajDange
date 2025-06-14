@@ -5,6 +5,10 @@ I'm a passionate Data Engineer and Analytics professional with expertise in desi
 
 ---
 
+## 🌐 Socials
+
+[GitHub](https://github.com/RajDange) | [LinkedIn](https://www.linkedin.com/in/raj-dange) | [Twitter](https://twitter.com/) | [StackOverflow](https://stackoverflow.com/) | [Kaggle](https://kaggle.com/) | [GitLab](https://gitlab.com/)
+
 ## 🚀 My Key Skills
 
 - **Azure Databricks:**  
@@ -40,6 +44,28 @@ I'm a passionate Data Engineer and Analytics professional with expertise in desi
   - **REST API:** Integration and automation using industry-standard APIs.
 
 ---
+
+## 💻 Tech Stack
+
+<!-- Azure -->
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<!-- General -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-E8572F?style=for-the-badge&logoColor=white)
+
+<!-- Spark/Python -->
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Spark Core](https://img.shields.io/badge/Spark%20Core-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ## 📊 What I Do
 
