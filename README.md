@@ -37,11 +37,7 @@ I'm a passionate Data Engineer and Analytics professional with expertise in desi
   Version control, collaboration, and workflow automation for code and data projects.
 
 - **Programming Languages:**  
-  - ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  - ![Spark Core](https://img.shields.io/badge/Spark%20Core-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+  - ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Spark Core](https://img.shields.io/badge/Spark%20Core-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
  
 
 ---
