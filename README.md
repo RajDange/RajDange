@@ -7,7 +7,14 @@ I'm a passionate Data Engineer and Analytics professional with expertise in desi
 
 ## 🌐 Socials
 
-[GitHub](https://github.com/RajDange) | [LinkedIn](https://www.linkedin.com/in/raj-dange) | [Twitter](https://twitter.com/) | [StackOverflow](https://stackoverflow.com/) | [Kaggle](https://kaggle.com/) | [GitLab](https://gitlab.com/)
+## 🌐 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajDange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-dange)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
 
 ## 🚀 My Key Skills
 
