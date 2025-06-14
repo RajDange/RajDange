@@ -52,6 +52,9 @@ I'm a passionate Data Engineer and Analytics professional with expertise in desi
 
 ---
 
+![RajDange's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDange&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDange&layout=compact&theme=radical)
+
 ## 🌐 Let's Connect
 
 Feel free to check out my repositories for code samples, templates, and project showcases.  
