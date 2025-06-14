@@ -61,3 +61,4 @@ Feel free to check out my repositories for code samples, templates, and project 
 I'm always open to collaboration, freelance opportunities, or sharing knowledge with fellow data professionals!
 
 ---
+![Meme](https://i.imgur.com/8fFC0zA.png)
