@@ -1,34 +1,28 @@
-# Project Title
+# 👋 Hi, I'm RajDange
 
-Welcome to the **Project Title** repository!
+Welcome to my GitHub profile!
 
-## Overview
+## 🚀 Databricks ETL Pipeline Project
 
-Describe your project here. What does it do? Why is it useful?
+**Project:** End-to-End Databricks ETL Pipeline for Loading Data into Fusion
 
-## Features
+I specialize in designing and implementing robust ETL pipelines using Databricks and Apache Spark. My latest project involves creating a complete pipeline to efficiently extract, transform, and load data into the Fusion platform.
 
-- Feature 1
-- Feature 2
-- Feature 3
+**Key Features:**
+- Data extraction from diverse sources (files, databases, APIs)
+- Data transformation: cleansing, enrichment, normalization
+- Optimized, scalable processing with Databricks/Spark
+- Automated and accurate loading into Fusion
+- Parameterized, reusable notebooks/jobs
+- Error handling, logging, and monitoring
+- Comprehensive deployment documentation
 
-## Getting Started
+**Tech Stack:**  
+Databricks, Apache Spark, Python/Scala, SQL, Fusion
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/yourusername/yourrepo.git
-   ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
+**Looking for collaboration or have a similar project?**  
+Feel free to connect or reach out!
 
-## Usage
+---
 
-Explain how to use your project with examples.
-
-## License
-
-This project is licensed under the MIT License.
-
-![Demo Image](path/to/image.png)
+*Check out my repositories for more projects and code samples!*
