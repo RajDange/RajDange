@@ -2,6 +2,7 @@
 Welcome to my GitHub profile!  
 I'm a passionate Data Engineer and Analytics professional with expertise in designing and implementing modern data solutions using a wide variety of cloud and on-premises tools. I love building scalable data pipelines, crafting insightful analytics, and helping organizations unlock the full potential of their data.
 
+Portfolio = https://raj-portfolio-17.vercel.app/
 ---
 
 ## 💻 Tech Stack
